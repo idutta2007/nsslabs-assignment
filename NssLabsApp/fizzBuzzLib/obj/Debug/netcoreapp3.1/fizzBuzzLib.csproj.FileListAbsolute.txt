@@ -1,0 +1,8 @@
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\bin\Debug\netcoreapp3.1\fizzBuzzLib.deps.json
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\bin\Debug\netcoreapp3.1\fizzBuzzLib.dll
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\bin\Debug\netcoreapp3.1\fizzBuzzLib.pdb
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\obj\Debug\netcoreapp3.1\fizzBuzzLib.AssemblyInfoInputs.cache
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\obj\Debug\netcoreapp3.1\fizzBuzzLib.AssemblyInfo.cs
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\obj\Debug\netcoreapp3.1\fizzBuzzLib.csproj.CoreCompileInputs.cache
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\obj\Debug\netcoreapp3.1\fizzBuzzLib.dll
+C:\GITHUB\nsslabs-assignment\NssLabsApp\fizzBuzzLib\obj\Debug\netcoreapp3.1\fizzBuzzLib.pdb

@@ -1,0 +1,16 @@
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\FizzBuzzBasicApp.exe
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\FizzBuzzBasicApp.deps.json
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\FizzBuzzBasicApp.runtimeconfig.json
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\FizzBuzzBasicApp.runtimeconfig.dev.json
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\FizzBuzzBasicApp.dll
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\FizzBuzzBasicApp.pdb
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\fizzBuzzLib.dll
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\bin\Debug\netcoreapp3.1\fizzBuzzLib.pdb
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.csprojAssemblyReference.cache
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.AssemblyInfoInputs.cache
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.AssemblyInfo.cs
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.csproj.CoreCompileInputs.cache
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.csproj.CopyComplete
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.dll
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.pdb
+C:\GITHUB\nsslabs-assignment\NssLabsApp\FizzBuzzBasicApp\obj\Debug\netcoreapp3.1\FizzBuzzBasicApp.genruntimeconfig.cache

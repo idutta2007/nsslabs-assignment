@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jufGHzH/jtFUUCClfz7var8Y9DWLcz3f4xq9z2y3PeOMC4Vho7AQUOj4xalgw0z2Cb4WM3sTBbMI5WHxKH0TA==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\nsslabs-assignment\\NssLabsApp\\fizzBuzzLib\\fizzBuzzLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idutt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

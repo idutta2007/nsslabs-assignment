@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gABFhkPRtFkXvfQ9kdyqa/Gp07wQbfWLGto5Nl0QKFkf30IxbRPK/HnOfn4UVi41++lGla6tTyyQ/oJGqBw+Tw==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\nsslabs-assignment\\NssLabsApp\\AdvancedFizzBuzz\\AdvancedFizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idutt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
